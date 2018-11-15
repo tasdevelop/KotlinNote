@@ -47,6 +47,7 @@
           android:text="Add"
           android:layout_gravity="end"
           android:layout_marginEnd="5dp"
+          android:onClick="addFunc"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content" />
     </LinearLayout>
